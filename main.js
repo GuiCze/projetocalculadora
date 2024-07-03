@@ -1,4 +1,3 @@
-//https://github.com/GuiCze/projetocalculadora.git
 const prompt = require('prompt-sync')();
 let ent=true;
 let nu2;
